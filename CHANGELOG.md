@@ -1,5 +1,28 @@
 # Changelog
 
+## [2026.9.4](https://github.com/jdx/mise/compare/v2026.9.3..v2026.9.4) - 2026-09-08
+
+### 🚀 Features
+
+- **(task)** add task-scoped quiet setting by @jdx in [#12980](https://github.com/jdx/mise/pull/12980)
+
+### 🐛 Bug Fixes
+
+- release target repo is missing by @eggplants in [#12977](https://github.com/jdx/mise/pull/12977)
+
+### 📦️ Dependency Updates
+
+- update fedora:45 docker digest to aacbc26 by @renovate[bot] in [#12959](https://github.com/jdx/mise/pull/12959)
+- update ghcr.io/jdx/mise:rpm docker digest to 1608a6d by @renovate[bot] in [#12962](https://github.com/jdx/mise/pull/12962)
+- update ghcr.io/jdx/mise:deb docker digest to 53e8a56 by @renovate[bot] in [#12961](https://github.com/jdx/mise/pull/12961)
+- update rust crate tera-contrib to 0.3 by @renovate[bot] in [#12964](https://github.com/jdx/mise/pull/12964)
+- update ghcr.io/jdx/mise:alpine docker digest to f36692f by @renovate[bot] in [#12960](https://github.com/jdx/mise/pull/12960)
+- update zizmorcore/zizmor-action action to v0.6.3 by @renovate[bot] in [#12963](https://github.com/jdx/mise/pull/12963)
+
+### Ci
+
+- treat mise-en-dev as a trusted actor by @jdx in [#12968](https://github.com/jdx/mise/pull/12968)
+
 ## [2026.9.3](https://github.com/jdx/mise/compare/v2026.9.2..v2026.9.3) - 2026-09-08
 
 ### 🚀 Features
